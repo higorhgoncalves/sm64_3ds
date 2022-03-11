@@ -137,3 +137,5 @@ Pull requests are welcome. For major changes, please open an issue first to
 discuss what you would like to change.
 
 Run clang-format on your code to ensure it meets the project's coding standards.
+
+https://gbatemp.net/threads/cxitool-convert-3dsx-to-cia-directly.440385/
